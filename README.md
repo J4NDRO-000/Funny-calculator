@@ -39,7 +39,8 @@ Ejemplos que funcionan:
 5(1+5)/2
 100*(100+1)/2
 
-📸 Capturas de Pantalla
+📸 Capturas de Pantalla:
+
 Menú Principal
           🏠 MENÚ PRINCIPAL
 ==================================================
@@ -67,8 +68,7 @@ Proyecto creado para clase de Python
 📧 j3vdev@gmail.com
 📜 Licencia
 Este proyecto fue creado con fines educativos.
-
 ⭐ ¡Dale una estrella si te gustó el proyecto!
-Este proyecto fue creado con fines educativos.
 
-⭐ ¡Dale una estrella si te gustó el proyecto!
+
+
