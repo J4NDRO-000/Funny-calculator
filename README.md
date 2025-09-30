@@ -64,7 +64,6 @@ Interface de Consola: Navegación por menús
 
 👨‍💻 Autor
 Jandro 
-Proyecto creado para clase de Python
 📧 j3vdev@gmail.com
 📜 Licencia
 Este proyecto fue creado con fines educativos.
